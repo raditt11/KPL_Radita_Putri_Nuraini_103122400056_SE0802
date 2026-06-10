@@ -3,9 +3,9 @@
 
 ## Identitas Mahasiswa
 
-**Nama**    : Radita Putri Nuraini
-**NIM**     : 103122400056
-**Kelas**   : SE-08-02
+**Nama**    : Radita Putri Nuraini  
+**NIM**     : 103122400056  
+**Kelas**   : SE-08-02  
 
 **Asisten Praktikum** :
 
