@@ -1,0 +1,23 @@
+{
+  "name": "tm",
+  "version": "1.0.0",
+  "description": "Tugas Mandiri 09 API Tebak Angka",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "nodemon app.js",
+    "test": "echo \"No test yet\""
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.2.1",
+    "swagger-jsdoc": "^6.3.0",
+    "swagger-ui-express": "^5.0.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.14"
+  }
+}
