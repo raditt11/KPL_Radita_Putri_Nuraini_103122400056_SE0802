@@ -1,0 +1,8 @@
+{
+  "name": "lib",
+  "version": "1.0.0",
+  "description": "Library matematika sederhana",
+  "main": "index.js",
+  "type": "module",
+  "license": "ISC"
+}

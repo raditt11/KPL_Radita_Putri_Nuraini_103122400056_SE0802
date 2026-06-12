@@ -1,0 +1,13 @@
+{
+  "name": "10_library_construction",
+  "version": "1.0.0",
+  "description": "Library untuk menghitung jumlah huruf dan kata",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node test.js"
+  },
+  "keywords": ["library", "javascript", "word", "utility"],
+  "author": "",
+  "license": "ISC"
+}
